@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Simulation database (large, regenerated locally on first run)
+data/league.db
+data/league.db-wal
+data/league.db-shm
+
+# OS cruft
+.DS_Store
+Thumbs.db
